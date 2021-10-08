@@ -1,0 +1,49 @@
+.mainRep {
+    text-align: justify;
+    font-size: 17pt;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background-color:rgb(213, 228, 228);
+}
+
+.jimHeader {
+    text-align: justify;
+    font-size: 17pt;
+    padding: 1em;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background-color:rgb(160, 205, 226);
+}
+
+.jimHeader {
+    text-align: center;
+}
+
+.basicInfo {
+    text-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img {
+    padding: 1em;
+}
+
+.text {
+    font-size: 14pt;
+}
+
+.committees {
+    font-size: 14pt;
+    text-align: justify;
+    flex-wrap: wrap;
+}
+
+.legislation {
+    text-align: center;
+    font-size: 14pt;
+    padding: 2em;
+}
+
